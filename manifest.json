@@ -1,7 +1,7 @@
 {
     "name": "Scotts_LC_Modpack",
     "version_number": "1.0.0",
-    "website_url": "",
+    "website_url": "https://github.com/ScottN13/scotts-lc-modpack",
     "description": "Modpack made for you and my friends. Cheers.",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
