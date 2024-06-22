@@ -1,6 +1,6 @@
 {
     "name": "Scotts_LC_Modpack",
-    "version_number": "1.0.1",
+    "version_number": "1.0.3",
     "website_url": "https://github.com/ScottN13/scotts-lc-modpack",
     "description": "Modpack made for you and my friends. Cheers.",
     "dependencies": [
@@ -18,7 +18,6 @@
         "Evaisa-HookGenPatcher-0.0.5",
         "Evaisa-LethalLib-0.16.0",
         "jaspercreations-Scopophobia-1.1.2",
-        "Jordo-NeedyCats-1.2.1",
         "Evaisa-FixPluginTypesSerialization-1.1.1",
         "Sigurd-CSync-5.0.1",
         "Scintesto-Monster_Plushies-1.2.9",
